@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Portable user preferences 3.0</comment>
+<entry key="newWallThickness">7.62</entry>
+<entry key="navigationPanelVisible">true</entry>
+<entry key="gridVisible">true</entry>
+<entry key="ignoredActionTip#1">CREATE_WALLS</entry>
+<entry key="autoCompletionProperty#3">HomePieceOfFurnitureName</entry>
+<entry key="language">en</entry>
+<entry key="newWallBaseboardHeight">6.35</entry>
+<entry key="roomFloorColoredOrTextured">false</entry>
+<entry key="autoCompletionStrings#1">Basement,Ground floor,1st floor,2nd floor,3rd floor</entry>
+<entry key="newWallBaseboardThickness">1.0</entry>
+<entry key="autoCompletionProperty#2">RoomName</entry>
+<entry key="autoCompletionStrings#3">Kitchen tools,Knife stand,Small lower cabinet,Double window 3 panes,Double-hung window</entry>
+<entry key="autoCompletionProperty#1">LevelName</entry>
+<entry key="autoCompletionStrings#2">Bathroom,Bedroom,Kitchen,Living room</entry>
+<entry key="observerCameraSelectedAtChange">true</entry>
+<entry key="rulersVisible">true</entry>
+<entry key="furnitureCatalogViewedInTree">true</entry>
+<entry key="recentColors"></entry>
+<entry key="recentHomes#1">/home/sartana900/.eteks/sweethome3d/Tiny house container   浴室サイズ完全変更 2.sh3d</entry>
+<entry key="newHomeWallHeight">243.84</entry>
+<entry key="newWallPattern">hatchUp</entry>
+<entry key="magnetismEnabled">true</entry>
+<entry key="extensibleUnit">CENTIMETER</entry>
+<entry key="autoSaveDelayForRecovery">600000</entry>
+<entry key="furnitureModelIconSize">128</entry>
+<entry key="furnitureViewedFromTop">false</entry>
+<entry key="defaultValueAddedTaxPercentage">0.2</entry>
+<entry key="valueAddedTaxEnabled">false</entry>
+<entry key="wallPattern">hatchUp</entry>
+<entry key="newFloorThickness">12.0</entry>
+<entry key="aerialViewCenteredOnSelectionEnabled">false</entry>
+<entry key="checkUpdatesEnabled">false</entry>
+</properties>

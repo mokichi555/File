@@ -1,0 +1,8 @@
+
+section{
+background: linear-gradient(30deg,rgba(199, 185, 255, 0.35),rgba(241, 175, 175, 0.185),rgba(179, 179, 231, 0.5),rgba(150, 152, 204, 0.3),rgba(133, 136, 221, 0.3),rgba(161, 155, 255, 0.5) ),url(Road.jpg);
+background-size:cover;;
+/* background-image: ("Road.jpg"); */
+/*rgba(253, 114, 114,0.5) rgba(253, 150, 68,0.35) rgba(104, 109, 224,0.5)rgba(162, 155, 254,1.0) */
+min-height: 100vh;
+}
